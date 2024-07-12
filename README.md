@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm chenzikun
-<h3 align="center">A Full-Stack developer</h3>
+<h3 align="center">A Full-Stack developer</h3>  
+
 <!--
 **chenzikun/chenzikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guangzhengli&label=Profile%20views&color=0e75b6&style=flat" alt="guangzhengli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chenzikun&label=Profile%20views&color=0e75b6&style=flat" alt="chenzikun" /> </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chenzikun&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Go](https://img.shields.io/badge/JAVA-%2300ADD8.svg?style=for-the-badge&logo=JAVA&logoColor=white)!![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
