@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 ![grpc](https://img.shields.io/badge/grpc-%2307405e.svg?style=for-the-badge&logo=grpc&logoColor=white)
 
 ![gin](https://img.shields.io/badge/gin-white.svg?style=for-the-badge&logo=gin&logoColor=%23007ACC)
+![trpc](https://img.shields.io/badge/trpc-white.svg?style=for-the-badge&logo=trpc&logoColor=#2596BE)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
