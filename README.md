@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 ![Pinia](https://img.shields.io/badge/Pinia-yellow.svg?style=for-the-badge&logo=Pinia&logoColor=white)
 ![apacheecharts](https://img.shields.io/badge/apacheecharts-AA344D.svg?style=for-the-badge&logo=apacheecharts&logoColor=white)
 ![axios](https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
-![ios](https://img.shields.io/badge/ios-white.svg?style=for-the-badge&logo=ios&logoColor=black)
+![ios](https://img.shields.io/badge/ios-000000.svg?style=for-the-badge&logo=ios&logoColor=white)
 ![android](https://img.shields.io/badge/android-34A853.svg?style=for-the-badge&logo=android&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
