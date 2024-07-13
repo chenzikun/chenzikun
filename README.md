@@ -100,5 +100,5 @@ Here are some ideas to get you started:
 ![skelearn](https://img.shields.io/badge/skelearn-%2307405e.svg?style=for-the-badge&logo=skelearn&logoColor=white)
 ![rasa](https://img.shields.io/badge/rasa-white.svg?style=for-the-badge&logo=rasa&logoColor=%2300ADD8)
 
-![sketch](https://img.shields.io/badge/sketch-white.svg?style=for-the-badge&logo=sketch&logoColor=FCC624)
+![sketch](https://img.shields.io/badge/sketch-white.svg?style=for-the-badge&logo=sketch&logoColor=#F7B500)
 ![axure](https://img.shields.io/badge/axure-white.svg?style=for-the-badge&logo=axure&logoColor=blue)
