@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![pytest](https://img.shields.io/badge/pytest-%2307405e.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![celery](https://img.shields.io/badge/celery-green.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-%23316192.svg?style=for-the-badge&logo=aiohttp&logoColor=white)
-![jupyter](https://img.shields.io/badge/jupyter-white.svg?style=for-the-badge&logo=jupyter&logoColor=yellow)
+![jupyter](https://img.shields.io/badge/jupyter-yellow.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![sphinx](https://img.shields.io/badge/sphinx-white.svg?style=for-the-badge&logo=sphinx&logoColor=black)
 ![grpc](https://img.shields.io/badge/grpc-%2307405e.svg?style=for-the-badge&logo=grpc&logoColor=white)
 
