@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![flask](https://img.shields.io/badge/flask-white.svg?style=for-the-badge&logo=flask&logoColor=black)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=green)
 ![tornado](https://img.shields.io/badge/tornado-%2307405e.svg?style=for-the-badge&logo=tornado&logoColor=white)
-![fastapi](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![click](https://img.shields.io/badge/click-%2307405e.svg?style=for-the-badge&logo=click&logoColor=white)
 ![scrapy](https://img.shields.io/badge/scrapy-green.svg?style=for-the-badge&logo=scrapy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-%2307405e.svg?style=for-the-badge&logo=pandas&logoColor=white)
