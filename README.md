@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![dask](https://img.shields.io/badge/dask-white.svg?style=for-the-badge&logo=dask&logoColor=dask)
 ![gevent](https://img.shields.io/badge/gevent-%2307405e.svg?style=for-the-badge&logo=gevent&logoColor=white)
 ![uvicorn](https://img.shields.io/badge/uvicorn-%2307405e.svg?style=for-the-badge&logo=uvicorn&logoColor=white)
-![gunicorn](https://img.shields.io/badge/gunicorn-white.svg?style=for-the-badge&logo=gunicorn&logoColor=green)
+![gunicorn](https://img.shields.io/badge/gunicorn-499848.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-%2307405e.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![celery](https://img.shields.io/badge/celery-green.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-%23316192.svg?style=for-the-badge&logo=aiohttp&logoColor=white)
