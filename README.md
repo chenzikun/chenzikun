@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ![IPython](https://img.shields.io/badge/IPython-3670A0?style=for-the-badge&logo=IPython&logoColor=ffdd54)
+![anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=ffdd54)
 ![flask](https://img.shields.io/badge/flask-black.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=green)
 ![tornado](https://img.shields.io/badge/tornado-%2307405e.svg?style=for-the-badge&logo=tornado&logoColor=white)
@@ -70,7 +71,7 @@ Here are some ideas to get you started:
 ![vant](https://img.shields.io/badge/vant-%2300ADD8.svg?style=for-the-badge&logo=vant&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-yellow.svg?style=for-the-badge&logo=Pinia&logoColor=white)
-![apacheecharts](https://img.shields.io/badge/apacheecharts-AA344D.svg?style=for-the-badge&logo=apacheecharts&logoColor=white)
+![apacheecharts](https://img.shields.io/badge/echarts-AA344D.svg?style=for-the-badge&logo=apacheecharts&logoColor=white)
 ![axios](https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![electron](https://img.shields.io/badge/electron-47848F.svg?style=for-the-badge&logo=electron&logoColor=white)
 ![capacitor](https://img.shields.io/badge/capacitor-119EFF.svg?style=for-the-badge&logo=capacitor&logoColor=white)
