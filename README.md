@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ![IPython](https://img.shields.io/badge/IPython-3670A0?style=for-the-badge&logo=IPython&logoColor=ffdd54)
-![flask](https://img.shields.io/badge/flask-white.svg?style=for-the-badge&logo=flask&logoColor=black)
+![flask](https://img.shields.io/badge/flask-black.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=green)
 ![tornado](https://img.shields.io/badge/tornado-%2307405e.svg?style=for-the-badge&logo=tornado&logoColor=white)
 ![fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=009688)
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![celery](https://img.shields.io/badge/celery-green.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-%23316192.svg?style=for-the-badge&logo=aiohttp&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![sphinx](https://img.shields.io/badge/sphinx-white.svg?style=for-the-badge&logo=sphinx&logoColor=black)
+![sphinx](https://img.shields.io/badge/sphinx-000000.svg?style=for-the-badge&logo=sphinx&logoColor=white)
 ![grpc](https://img.shields.io/badge/grpc-%2307405e.svg?style=for-the-badge&logo=grpc&logoColor=white)
 
 ![gin](https://img.shields.io/badge/gin-008ECF.svg?style=for-the-badge&logo=gin&logoColor=white)
