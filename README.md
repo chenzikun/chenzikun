@@ -61,10 +61,11 @@ Here are some ideas to get you started:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![vitest](https://img.shields.io/badge/Vite-6E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![vuetify](https://img.shields.io/badge/vuetify-1867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white)
 ![elementPlus](https://img.shields.io/badge/ElementPlus-00A1EA.svg?style=for-the-badge&logo=elementPlus&logoColor=white)
 ![antdesign](https://img.shields.io/badge/antdesign-0170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white)
