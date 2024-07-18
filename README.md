@@ -80,6 +80,7 @@ Here are some ideas to get you started:
 ![android](https://img.shields.io/badge/android-34A853.svg?style=for-the-badge&logo=android&logoColor=white)
 
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![kuboard](https://img.shields.io/badge/kuboard-%23007ACC.svg?style=for-the-badge&logo=kuboard&logoColor=white)
