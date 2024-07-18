@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 ![ios](https://img.shields.io/badge/ios-000000.svg?style=for-the-badge&logo=ios&logoColor=white)
 ![android](https://img.shields.io/badge/android-34A853.svg?style=for-the-badge&logo=android&logoColor=white)
 
+![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![kuboard](https://img.shields.io/badge/kuboard-%23007ACC.svg?style=for-the-badge&logo=kuboard&logoColor=white)
@@ -93,7 +94,7 @@ Here are some ideas to get you started:
 ![sentry](https://img.shields.io/badge/sentry-white.svg?style=for-the-badge&logo=sentry&logoColor=gray)
 ![nacos](https://img.shields.io/badge/nacos-%2300ADD8.svg?style=for-the-badge&logo=nacos&logoColor=white)
 ![jaeger](https://img.shields.io/badge/jaeger-66CFE3.svg?style=for-the-badge&logo=jaeger&logoColor=white)
-![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
+![apacheairflow](https://img.shields.io/badge/apacheairflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ![langchain](https://img.shields.io/badge/langchain-blue.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![langsmith](https://img.shields.io/badge/langsmith-%2307405e.svg?style=for-the-badge&logo=langsmith&logoColor=white)
