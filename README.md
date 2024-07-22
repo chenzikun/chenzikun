@@ -96,6 +96,8 @@ Here are some ideas to get you started:
 ![nacos](https://img.shields.io/badge/nacos-%2300ADD8.svg?style=for-the-badge&logo=nacos&logoColor=white)
 ![jaeger](https://img.shields.io/badge/jaeger-66CFE3.svg?style=for-the-badge&logo=jaeger&logoColor=white)
 ![apacheairflow](https://img.shields.io/badge/apacheairflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![minio](https://img.shields.io/badge/minio-C72E49.svg?style=for-the-badge&logo=minio&logoColor=white)
+
 
 ![langchain](https://img.shields.io/badge/langchain-blue.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![langsmith](https://img.shields.io/badge/langsmith-%2307405e.svg?style=for-the-badge&logo=langsmith&logoColor=white)
