@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ![IPython](https://img.shields.io/badge/IPython-3670A0?style=for-the-badge&logo=IPython&logoColor=ffdd54)
+![pydantic](https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=ffdd54)
 ![flask](https://img.shields.io/badge/flask-black.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=green)
