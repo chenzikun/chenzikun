@@ -100,10 +100,10 @@ Here are some ideas to get you started:
 ![minio](https://img.shields.io/badge/minio-C72E49.svg?style=for-the-badge&logo=minio&logoColor=white)
 
 
-![langchain](https://img.shields.io/badge/langchain-blue.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![langsmith](https://img.shields.io/badge/langsmith-%2307405e.svg?style=for-the-badge&logo=langsmith&logoColor=white)
-![langgraph](https://img.shields.io/badge/langgraph-%2307405e.svg?style=for-the-badge&logo=langgraph&logoColor=white)
-![langService](https://img.shields.io/badge/langService-%2307405e.svg?style=for-the-badge&logo=langService&logoColor=white)
+![langchain](https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![langsmith](https://img.shields.io/badge/langsmith-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![langgraph](https://img.shields.io/badge/langgraph-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![langService](https://img.shields.io/badge/langService-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![huggingface](https://img.shields.io/badge/huggingface-ED8B00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![milvus](https://img.shields.io/badge/milvus-00A1EA.svg?style=for-the-badge&logo=milvus&logoColor=white)
 ![ollama](https://img.shields.io/badge/ollama-362D59.svg?style=for-the-badge&logo=ollama&logoColor=white)
