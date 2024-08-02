@@ -106,6 +106,8 @@ Here are some ideas to get you started:
 ![langService](https://img.shields.io/badge/langService-%2307405e.svg?style=for-the-badge&logo=langService&logoColor=white)
 ![huggingface](https://img.shields.io/badge/huggingface-ED8B00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![milvus](https://img.shields.io/badge/milvus-00A1EA.svg?style=for-the-badge&logo=milvus&logoColor=white)
+![ollama](https://img.shields.io/badge/ollama-gray.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![dify](https://img.shields.io/badge/dify-blue.svg?style=for-the-badge&logo=dify&logoColor=white)
 ![skelearn](https://img.shields.io/badge/skelearn-%2307405e.svg?style=for-the-badge&logo=skelearn&logoColor=white)
 ![rasa](https://img.shields.io/badge/rasa-5A17EE.svg?style=for-the-badge&logo=rasa&logoColor=white)
 
