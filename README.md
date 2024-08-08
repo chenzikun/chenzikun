@@ -23,17 +23,20 @@ Here are some ideas to get you started:
 
 
 # 💻 Tech Stack:
+<!-- language -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
 
+<!-- 数据库 -->
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
+<!-- Python -->
 ![IPython](https://img.shields.io/badge/IPython-3670A0?style=for-the-badge&logo=IPython&logoColor=ffdd54)
 ![pydantic](https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=ffdd54)
@@ -57,9 +60,11 @@ Here are some ideas to get you started:
 ![sphinx](https://img.shields.io/badge/sphinx-000000.svg?style=for-the-badge&logo=sphinx&logoColor=white)
 ![grpc](https://img.shields.io/badge/grpc-%2307405e.svg?style=for-the-badge&logo=grpc&logoColor=white)
 
+<!-- Golang -->
 ![gin](https://img.shields.io/badge/gin-008ECF.svg?style=for-the-badge&logo=gin&logoColor=white)
 ![trpc](https://img.shields.io/badge/trpc-2596BE.svg?style=for-the-badge&logo=trpc&logoColor=white)
 
+<!-- 前端 -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -80,6 +85,8 @@ Here are some ideas to get you started:
 ![ios](https://img.shields.io/badge/ios-000000.svg?style=for-the-badge&logo=ios&logoColor=white)
 ![android](https://img.shields.io/badge/android-34A853.svg?style=for-the-badge&logo=android&logoColor=white)
 
+
+<!-- 后台组件 -->
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -98,8 +105,9 @@ Here are some ideas to get you started:
 ![jaeger](https://img.shields.io/badge/jaeger-66CFE3.svg?style=for-the-badge&logo=jaeger&logoColor=white)
 ![apacheairflow](https://img.shields.io/badge/apacheairflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![minio](https://img.shields.io/badge/minio-C72E49.svg?style=for-the-badge&logo=minio&logoColor=white)
+![YApi](https://img.shields.io/badge/YApi-C72E49.svg?style=for-the-badge&logo=YApi&logoColor=white)
 
-
+<!-- AI组件 -->
 ![langchain](https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![langsmith](https://img.shields.io/badge/langsmith-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![langgraph](https://img.shields.io/badge/langgraph-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
@@ -111,5 +119,6 @@ Here are some ideas to get you started:
 ![skelearn](https://img.shields.io/badge/skelearn-%2307405e.svg?style=for-the-badge&logo=skelearn&logoColor=white)
 ![rasa](https://img.shields.io/badge/rasa-5A17EE.svg?style=for-the-badge&logo=rasa&logoColor=white)
 
+<!-- UI与设计 -->
 ![sketch](https://img.shields.io/badge/sketch-F7B500.svg?style=for-the-badge&logo=sketch&logoColor=white)
 ![axure](https://img.shields.io/badge/axure-white.svg?style=for-the-badge&logo=axure&logoColor=blue)
