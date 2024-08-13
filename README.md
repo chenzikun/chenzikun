@@ -118,7 +118,7 @@ Here are some ideas to get you started:
 ![dify](https://img.shields.io/badge/dify-blue.svg?style=for-the-badge&logo=dify&logoColor=white)
 ![skelearn](https://img.shields.io/badge/skelearn-%2307405e.svg?style=for-the-badge&logo=skelearn&logoColor=white)
 ![rasa](https://img.shields.io/badge/rasa-5A17EE.svg?style=for-the-badge&logo=rasa&logoColor=white)
-![ollama](https://img.shields.io/badge/ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![ollama](https://img.shields.io/badge/ollama-black.svg?style=for-the-badge&logo=ollama&logoColor=white)
 
 <!-- UI与设计 -->
 ![sketch](https://img.shields.io/badge/sketch-F7B500.svg?style=for-the-badge&logo=sketch&logoColor=white)
